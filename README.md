@@ -1,2 +1,3 @@
-# coursera-scrutiny
-coursera test repository
+# Jetbrains-Simple_ChatBot-Application
+Python repository
+
